@@ -52,5 +52,5 @@ else:
         # Stream the response to the app using `st.write_stream`.
         st.write_stream(stream)
 
-if __name__ == '__main__':     
-    st.set_option('server.enableCORS', True)
+# if __name__ == '__main__':     
+#     st.set_option('server.enableCORS', True)
